@@ -2,6 +2,7 @@ from scipy.fft import fft, fftfreq
 import seaborn as sns
 import pandas as pd
 import matplotlib.pylab as plt
+import numpy as np
 
 
 class KuramotoNetwork:
